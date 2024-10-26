@@ -117,3 +117,184 @@ header > div > a > p {
     justify-content: center;
     align-items: center;
 }
+
+.rectangle {
+    height: 252px;
+    background-color: #F0FAF7;
+}
+
+.mentalGame {
+    height: 809.33px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.mentalGame > h1 {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 53.33px;
+    font-weight: 700px;
+    line-height: 60.8px;
+}
+
+.mentalGame > p {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 26.67px;
+    font-weight: 400px;
+    line-height: 41px;
+}
+
+.shop {
+    height: 508px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.shop > h1 {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 53.33px;
+    font-weight: 700px;
+    line-height: 60.8px;
+}
+
+.shop > p {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 21.33px;
+    font-weight: 400px;
+    line-height: 24.53px;
+}
+
+.products {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.one {
+    width: 386.67px;
+    height: 333.33px;
+    background-color: #005466;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.button2 {
+    width: 242.67px;
+    height: 48px;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one > p {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 18.67px;
+    font-weight: 400px;
+    line-height: 21.47px;
+    text-transform: uppercase;
+}
+
+.button2 > a > p {
+    color: rgb(0, 0, 0);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.33px;
+    text-transform: uppercase;
+}
+
+.two {
+    width: 386.67px;
+    height: 333.33px;
+    background-color: #F7D8BF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.button3 {
+    width: 242.67px;
+    height: 48px;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.two > p {
+    color: #C47B59;
+    font-family: "Roboto";
+    font-size: 18.67px;
+    font-weight: 400px;
+    line-height: 21.47px;
+    text-transform: uppercase;
+}
+
+.button3 > a > p {
+    color: rgb(0, 0, 0);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.33px;
+    text-transform: uppercase;
+}
+
+.three {
+    width: 386.67px;
+    height: 333.33px;
+    background-color: #F1FAF6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.button4 {
+    width: 242.67px;
+    height: 48px;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.three > p {
+    color: #64BAA1;
+    font-family: "Roboto";
+    font-size: 18.67px;
+    font-weight: 400px;
+    line-height: 21.47px;
+    text-transform: uppercase;
+}
+
+.button4 > a > p {
+    color: rgb(0, 0, 0);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.33px;
+    text-transform: uppercase;
+}
